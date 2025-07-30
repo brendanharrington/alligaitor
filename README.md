@@ -1,6 +1,6 @@
 # Arduino BLE FlexiForce Sensor Project
 
-**Group:** The Alligators  
+**Group:** The Alligaitors  
 **Course:** BMEN 3030 - Bioinstrumentation
 
 ## Overview
